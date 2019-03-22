@@ -1,0 +1,11 @@
+jupyter
+matplotlib
+pandas
+numpy
+gensim
+pillow
+tqdm
+h5py
+ipykernel
+bokeh
+pickleshare
