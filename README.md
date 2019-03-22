@@ -2,6 +2,8 @@
 
 A PyTorch CNN for classifying the sentiment of movie reviews, based on the paper [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882) by Yoon Kim (2014).
 
+The task of text classification has typically been done with an RNN, which accepts a sequence of words as input and has a hidden state that is dependent on that sequence and acts as a kind of memory. This example shows how you can utilize convolutional layers to find patterns in sequences of word embeddings and create an effective text classifier using a CNN-based approach!
+
 If you'd like to work with this code locally, you may follow the instructions (as needed) below! These installation instructions assume you have installed miniconda, but if you have not, you can download the latest version [here](https://conda.io/en/latest/miniconda.html).
 
 ---
