@@ -2,7 +2,7 @@
 
 A PyTorch CNN for classifying the sentiment of movie reviews, based on the paper [Convolutional Neural Networks for Sentence Classification](https://arxiv.org/abs/1408.5882) by Yoon Kim (2014).
 
-If you'd like to work with this code locally, you may follow the instructions (as needed) below! These installation instructions assume you have installed miniconda, but if you have not, you can download the latest verions [here](https://conda.io/en/latest/miniconda.html).
+If you'd like to work with this code locally, you may follow the instructions (as needed) below! These installation instructions assume you have installed miniconda, but if you have not, you can download the latest version [here](https://conda.io/en/latest/miniconda.html).
 
 ---
 
